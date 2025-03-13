@@ -7,6 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test4Application {
 
 	public static void main(String[] args) {
+		int x = 100;
+		float y = 20.0;
+		boolean z = true;
+		String a = "hellow World";
+		int hd = 288937;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
