@@ -12,6 +12,7 @@ public class Test4Application {
 		boolean z = true;
 		String a = "hellow World";
 		int v = 487320;
+		String b = "Conflict";
 		SpringApplication.run(Test4Application.class, args);
 	}
 
