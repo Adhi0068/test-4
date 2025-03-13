@@ -11,6 +11,7 @@ public class Test4Application {
 		float y = 20.0;
 		boolean z = true;
 		String a = "hellow World";
+		int v = 487320;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
