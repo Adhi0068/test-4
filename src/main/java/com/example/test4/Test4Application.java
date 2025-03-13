@@ -15,6 +15,7 @@ public class Test4Application {
 		int v = 487320;
 		String b = "Conflict";
 		String n = "Recent Changes";
+		int recentChanges = 0;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
