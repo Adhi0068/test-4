@@ -13,6 +13,11 @@ public class Test4Application {
 		String a = "hellow World";
 		int v = 487320;
 		String b = "Conflict";
+
+
+
+
+		String b = "Conflict";
 		SpringApplication.run(Test4Application.class, args);
 	}
 
