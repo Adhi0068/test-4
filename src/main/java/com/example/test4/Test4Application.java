@@ -11,13 +11,18 @@ public class Test4Application {
 		float y = 20.0;
 		boolean z = true;
 		String a = "hellow World";
+		int hd = 288937;
 		int v = 487320;
 		String b = "Conflict";
 
 
 
 
-		String b = "Conflict";
+
+		String c = "Conflict";
+		String n = "Recent Changes";
+
+		String s = "Recently update on git";
 		SpringApplication.run(Test4Application.class, args);
 	}
 
